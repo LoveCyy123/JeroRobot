@@ -1,0 +1,22 @@
+# CMake & build
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 常见 IDE
+.idea/
+.vscode/
+*.user
+
+# 编译输出
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
